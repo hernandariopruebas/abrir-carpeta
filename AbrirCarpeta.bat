@@ -1,2 +1,2 @@
 @echo off
-start \\cifs.ant.local\Expedientes UAF\Planes
+start file:\\cifs.ant.local\Expedientes UAF\Planes
